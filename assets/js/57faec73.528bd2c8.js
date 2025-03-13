@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorg_docs=self.webpackChunkorg_docs||[]).push([[9426],{5609:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/org-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
